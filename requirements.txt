@@ -1,0 +1,9 @@
+aiogram
+python-dotenv
+pandas
+aiohttp
+bs4
+requests
+joblib
+scikit-learn
+xgboost
