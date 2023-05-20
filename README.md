@@ -40,6 +40,7 @@ all team members are aligned with the project vision and objectives. He
 will work closely with the client to ensure that our predictions align with his
 business objectives and will be responsible for presenting the results to Bill
 at regular intervals.
+
 Mahmoud Mousatat: 
     As our modeling expert, Mahmoud will be responsible
 for building our machine learning models. This will include tasks such
@@ -47,6 +48,8 @@ as feature engineering, model training, testing, and tuning. He will work
 closely with Timur Aizatvafin to ensure that the data is suitable for modeling
 and will work with Majed to ensure that our models align with Benter’s
 business objectives. Evaluating the model and create a strategy to link the Risk and the profit in betting simulation.
+
+
 Timur Aizatvafin: 
     As our data expert, Timur will be responsible for all
 data operations, including loading, cleaning, analysis, and preprocessing. He
